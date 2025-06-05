@@ -29,7 +29,6 @@ Data is used from [Kaggle's Titanic dataset] (https://www.kaggle.com/c/titanic/d
 - Age Distribution and Survival Trends
 - Passenger Class and Survival Impact
 - Family Size vs. Solo Travel Effects
-- Embarked Location Analysis
 - Fare Distribution by Class
 - Missing Data Handling and Visualizations
 
@@ -47,7 +46,7 @@ Data is used from [Kaggle's Titanic dataset] (https://www.kaggle.com/c/titanic/d
 
 ---
 
-## 📌 Insights Example
-
-> **Did you know?** Females had a much higher survival rate compared to males, and passengers in 1st class were significantly more likely to survive.
-
+### ✅ Insights & Observations
+- Female passengers had a higher chance of survival.
+- First-class passengers were more likely to survive.
+- Traveling with family improved survival chances.
