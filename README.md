@@ -23,6 +23,8 @@ The objective is to explore patterns and factors that influenced survival on the
 
 Data is used from [Kaggle's Titanic dataset] (https://www.kaggle.com/c/titanic/data)
 
+![Screenshot](Y:\PythonLife Projects\mini\Titanic\TitanicDashboard.png)
+
 ## 🔍 Key Analysis Performed
 
 - Gender vs. Survival Rate
