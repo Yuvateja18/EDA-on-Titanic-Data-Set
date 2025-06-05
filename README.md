@@ -21,7 +21,7 @@ The objective is to explore patterns and factors that influenced survival on the
 
 ## 📄 Original File (raw) from Kaggle
 
-Data used is from [Kaggle's Titanic dataset] (https://www.kaggle.com/c/titanic/data)
+Data is used from [Kaggle's Titanic dataset] (https://www.kaggle.com/c/titanic/data)
 
 ## 🔍 Key Analysis Performed
 
