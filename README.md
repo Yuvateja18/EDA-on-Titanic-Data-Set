@@ -24,7 +24,7 @@ The objective is to explore patterns and factors that influenced survival on the
 Data is used from [Kaggle's Titanic dataset] (https://www.kaggle.com/c/titanic/data)
 
 
-## This is an image:
+## Dashboard image:
 
 ![Titanic_Dashboard](https://github.com/user-attachments/assets/e40bf43f-0b67-473e-b713-7037d673583b)
 
